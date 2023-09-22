@@ -1,0 +1,34 @@
+  /* nav bar */
+  
+  .nav-link:hover {
+      background-color: lightgrey;
+  }
+  /* carousel */
+  
+  .center {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 0.3cm;
+  }
+  /* card */
+  
+  .card:hover {
+      background-color: rgb(44, 122, 143);
+  }
+  
+  .text {
+      background-color: rgb(35, 34, 33);
+  }
+  /* horizontal scrolling */
+  /* styles.css */
+  
+  .image-container {
+      width: 100%;
+      overflow-x: scroll;
+      white-space: nowrap;
+  }
+  
+  .scrollable {
+      display: inline-block;
+  }
