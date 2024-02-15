@@ -1,0 +1,1 @@
+This is developed using Html,Css,Bootstrap as well as javascript.Has MongoDB as backend connection. Once registered, we can navigate through various sections like men,women and kids. Once the item is selected we can navigate to buy now page and confirm the order.
